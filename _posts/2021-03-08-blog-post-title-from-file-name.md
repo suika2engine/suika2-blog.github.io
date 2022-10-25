@@ -1,32 +1,9 @@
-## Test
+## The Suika2 Blog Launchers
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+I'm Midori, it's so nice to see you! We've probably met before, but if not, I'm the ditzy deuteragonist who gives people the run down on Suika2!
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Okay, so a little bit about me: I go to a small-town school on the Hokkaido coast, but I have a habbit of 'forgetting' my time table; I'm usually on the roof playing visual novels or reading instead, the sea-breeze is too nice to be indoors! Anyway, when I'm not talking about Suika2 with my friends or helping Kei-sensei answer emails, I help my parents on their watermelon farm, I even have a watermelon tie and super awesome hair ribbons!
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+So, on behalf of the [Suika2 Development Team](https://github.com/suika2engine), welcome to my blog! Here I'll talk about updates and cool behind-the-scenes info that the Team share with me from time-to-time, I might even share some of my 'slice-of-life'!
 
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+I look forward to hearing from you, and I hope you enjoy reading!
