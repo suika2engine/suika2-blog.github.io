@@ -1,4 +1,4 @@
-## The Suika2 Blog Launchers
+## The Suika2 Blog Launches
 
 I'm Midori, it's so nice to see you! We've probably met before, but if not, I'm the ditzy deuteragonist who gives people the run down on Suika2!
 
