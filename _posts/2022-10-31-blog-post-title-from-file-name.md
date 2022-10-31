@@ -1,7 +1,3 @@
----
-layout: post
----
-
 ## New E-Mail Address
 
 Hey everyone, I hope you're doing well! This is just a quick update on my contact info.
