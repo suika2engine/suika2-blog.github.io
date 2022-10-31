@@ -6,7 +6,7 @@ Heya everyone, it's Midori! I hope you've all been having a lovely week, because
 new features to help NVL-style presentation? Something tells me Suika2.11.5 is going to be a big update for NVL writers... Oh, but don't worry, ADV is
 still getting improvements, so keep an eye out for what's to come in the future, you don't want to miss out!
 
-Okay, so by now we all know that I could go on and on about Suika2 (let's be honest, who couldn't?), but today I have a super special announcement to make,
+Okay, so by now we all know that I could go on and on about Suika2 for ever (let's be honest, who couldn't?), but today I have a super special announcement to make,
 well it's more like an introduction: My older sister just arrived back from school in Tokyo and she's been waiting to meet you all, I hope you'll accept her!
 
 <img align="left" width="15%" src="/images/Rina-Waist-Up.png">
