@@ -6,4 +6,6 @@ If you ever need to get in touch with me or the team, send an email to midori@su
 
 Sorry that that's all for now, but there's great stuff on the horizon!
 
+(ここにメールしてね。midori@suika2.com)
+
 Stay safe! – Midori ^-^
