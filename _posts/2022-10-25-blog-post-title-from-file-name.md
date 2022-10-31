@@ -6,4 +6,4 @@ Okay, so a little bit about me: I go to a small-town school on the Hokkaido coas
 
 So, on behalf of the [Suika2 Development Team](https://github.com/suika2engine), welcome to my blog! Here I'll talk about updates and cool behind-the-scenes info that the Team share with me from time-to-time, I might even share some of my 'slice-of-life'!
 
-I look forward to hearing from you, and I hope you enjoy reading!
+I look forward to hearing from you, and I hope you enjoy reading about me, Suika2, and the Team!
